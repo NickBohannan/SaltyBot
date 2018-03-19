@@ -177,3 +177,5 @@ function addFightHistory(winner,loser){
     console.log(winner);
     console.log(loser);
 }
+
+test

@@ -6,3 +6,10 @@ This userscript works by observing fights and tracks simple stats (wins - losses
 Some hacky things are being done like the use of cookies as storage. I need to get this working with an indexedDB or something more sustainable as Salty Bet has 6000+ known fighters.
 
 So far this bot has been successful in taking my account from ~$1,000 to ~$280,000 in just a couple of weeks.
+
+test
+
+
+testsetsetsets
+te
+setsettestsetset
